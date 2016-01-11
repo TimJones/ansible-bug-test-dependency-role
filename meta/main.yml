@@ -1,0 +1,7 @@
+---
+galaxy_info:
+  author: Tim Jones
+  description: Dependency role for Ansible bug report
+  license: MIT
+  min_ansible_version: 1.9
+dependencies: []

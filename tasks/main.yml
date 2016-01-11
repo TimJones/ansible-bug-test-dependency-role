@@ -1,0 +1,2 @@
+---
+- debug: msg="This is the dependency role, say '{{ dep_msg }}'"
